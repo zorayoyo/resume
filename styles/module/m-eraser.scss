@@ -15,7 +15,7 @@
  }
 .m-eraser{
   @extend %container; 
-  background: url(../../images/destination.jpg) 0 0 no-repeat; 
+  background: url(#{base(images-url)}destination.jpg) 0 0 no-repeat; 
   background-size: 100% 100%;
   z-index: 0;
 }

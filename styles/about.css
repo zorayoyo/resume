@@ -549,7 +549,7 @@ article, section {
   height: 100%; }
 
 .m-eraser {
-  background: url(../../images/destination.jpg) 0 0 no-repeat;
+  background: url(../images/destination.jpg) 0 0 no-repeat;
   background-size: 100% 100%;
   z-index: 0; }
 
