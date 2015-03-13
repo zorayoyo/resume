@@ -7,7 +7,7 @@ var x1,y1, // 定义圆心
     gap = 30;
 var sourceImg = new Image();// 定义新图(sourceImage)
 
-sourceImg.src = "../images/source.png"; 
+sourceImg.src = "https://cdn.rawgit.com/zorayoyo/resume/master/images/source.png"; 
 canvas.width = document.getElementById("fakemask").clientWidth;
 canvas.height = document.getElementById("fakemask").clientHeight;
 
