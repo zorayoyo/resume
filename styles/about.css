@@ -191,7 +191,7 @@ article, section {
   color: #df6f9f; }
   .logo:before {
     content: "";
-    background: url(../../images/zora-logo.png) no-repeat;
+    background: url(https://github.com/zorayoyo/resume/blob/master/images/zora-logo.png) no-repeat;
     background-size: 100% 100%;
     width: 0.275rem;
     height: 0.19rem;
@@ -229,7 +229,7 @@ article, section {
   -webkit-animation: logo-decoration 2s 1s ease-out forwards; }
 
 .m-introduction {
-  background: url(../../images/zora-bg.png) center center no-repeat;
+  background: url(https://github.com/zorayoyo/resume/blob/master/images/zora-bg.png) center center no-repeat;
   background-size: 180% 100%; }
 
 .drop-tag {
@@ -449,7 +449,7 @@ article, section {
     list-style: inside square; }
 
 .duang {
-  background: url(../../images/duang.jpg) no-repeat;
+  background: url(https://github.com/zorayoyo/resume/blob/master/images/duang.jpg) no-repeat;
   background-size: 100% 100%;
   position: absolute;
   width: 3.2rem;
