@@ -12,7 +12,7 @@ new PreLoad($('#progress'), [
   'zora-bg.png',
   'zora-logo.png'
 ], {
-  prefix: 'images/',
+  prefix: 'https://cdn.rawgit.com/zorayoyo/resume/master/images/',
   complete: function(){
     // var $loader = $('#loader');
     var $pages = $('.container');
